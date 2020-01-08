@@ -1,23 +1,22 @@
 {
   "files": {
     "main.css": "/cognito-react/static/css/main.d1b05096.chunk.css",
-    "main.js": "/cognito-react/static/js/main.f1a75056.chunk.js",
-    "main.js.map": "/cognito-react/static/js/main.f1a75056.chunk.js.map",
+    "main.js": "/cognito-react/static/js/main.e513d91f.chunk.js",
+    "main.js.map": "/cognito-react/static/js/main.e513d91f.chunk.js.map",
     "runtime-main.js": "/cognito-react/static/js/runtime-main.d4f7debd.js",
     "runtime-main.js.map": "/cognito-react/static/js/runtime-main.d4f7debd.js.map",
-    "static/js/2.e4f03429.chunk.js": "/cognito-react/static/js/2.e4f03429.chunk.js",
-    "static/js/2.e4f03429.chunk.js.map": "/cognito-react/static/js/2.e4f03429.chunk.js.map",
+    "static/js/2.3406802d.chunk.js": "/cognito-react/static/js/2.3406802d.chunk.js",
+    "static/js/2.3406802d.chunk.js.map": "/cognito-react/static/js/2.3406802d.chunk.js.map",
     "index.html": "/cognito-react/index.html",
-    "precache-manifest.136808f46a56a048b6420203c228f212.js": "/cognito-react/precache-manifest.136808f46a56a048b6420203c228f212.js",
+    "precache-manifest.b2c66ac59a4078558c8b4098500f0492.js": "/cognito-react/precache-manifest.b2c66ac59a4078558c8b4098500f0492.js",
     "service-worker.js": "/cognito-react/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/cognito-react/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.e4f03429.chunk.js.LICENSE": "/cognito-react/static/js/2.e4f03429.chunk.js.LICENSE",
-    "static/media/logo.svg": "/cognito-react/static/media/logo.5d5d9eef.svg"
+    "static/js/2.3406802d.chunk.js.LICENSE": "/cognito-react/static/js/2.3406802d.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.d4f7debd.js",
-    "static/js/2.e4f03429.chunk.js",
+    "static/js/2.3406802d.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.f1a75056.chunk.js"
+    "static/js/main.e513d91f.chunk.js"
   ]
 }
